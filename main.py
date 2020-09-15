@@ -7,10 +7,8 @@
 
 def sum_n(n):
   if  n-1 == 0 :
-    print(n)
     return 1
   else :
-    print(n)
     return sum_n(n-1)+n
 
 def print_n(s, n):
