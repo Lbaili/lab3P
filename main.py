@@ -22,6 +22,6 @@ def print_n(s, n):
 
 if __name__ =="__main__":
   a=int(input("Enter an int: "))
-  print(f"sum is {sum_n(a)}")
+  print(f"sum is {sum_n(a)}.")
   b=input("Enter a string: ")
   print_n(b, a)
