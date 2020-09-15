@@ -16,12 +16,9 @@ def print_n(s, n):
     print(s)
 
   else :
-    print_n(s, n-1)
     print(s)
+    print_n(s, n-1)
     
-    
-
-
 
 if __name__ =="__main__":
   a=int(input("Enter an int: "))
