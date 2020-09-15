@@ -1,7 +1,7 @@
 
 # Author: Chang Li cxl5844@psu.edu
-# Collaborator: Daniel Mikita djm6907@psu.edu 
-# Collaborator: John O’Toole jbo5232@psu.edu 
+# Collaborator: Daniel Mikita djm6907@psu.edu
+# Collaborator: John O’Toole jbo5232@psu.edu
 # Section: 1
 # Breakout: 8
 
