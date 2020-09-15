@@ -6,14 +6,14 @@
 # Breakout: 8
 
 def sum_n(n):
-  if  n-1 <= 0 :
-    return 1
+  if  n <= 0 :
+    return 0
   else :
     return sum_n(n-1)+n
 
 def print_n(s, n):
-  if n-1 <= 0 :
-    print(s)
+  if n == 0 :
+    return s
 
   else :
     print(s)
